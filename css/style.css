@@ -175,8 +175,8 @@ hr {
         gap: 24px; /* Espacio entre elementos */
         padding: 24px; /* Opcional: espacio interior al contenedor */
         text-align: center; /* Centra los textos dentro de cada celda */
-        margin-left: 200px;
-        margin-right: 200px;
+        margin-left: 100px;
+        margin-right: 100px;
         margin-bottom: -50px;
 }
 .proyectos__contenedor{
